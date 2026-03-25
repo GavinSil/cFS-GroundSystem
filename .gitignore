@@ -20,3 +20,6 @@ CMakeCache.txt
 
 # OS stuff
 .DS_Store
+
+# AI agent documentation
+AGENTS.md
